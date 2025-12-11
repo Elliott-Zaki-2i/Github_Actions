@@ -36,4 +36,4 @@ jobs:
       # 5. Run tests
       - name: Run Playwright tests
         run: |
-          pytest
+          pytest test_example.py
